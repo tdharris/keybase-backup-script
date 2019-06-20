@@ -6,7 +6,7 @@ Simple backup script for Linux intended for backing up local files to Keybase Fi
 
 ### Install
 - Download `backup.sh`
-- Create a backup files list with each file on a new line
+- Create a backup files list with each file on a new line (i.e. `files.txt`)
 - Configure variables in script appropriately:
 ```
 # Config
