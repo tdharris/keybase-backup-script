@@ -21,4 +21,4 @@ backup_list="/path/to/files.txt"
 backup_list_context="/"
 ```
 - Run backup to test with small file list: `./backup.sh`
-- Setup with crontab to perform automated backup routine
+- Setup with [crontab](https://crontab.guru/examples.html) to perform automated backup routine
